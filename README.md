@@ -1,0 +1,3 @@
+# Malinka
+
+Repository for LAB
